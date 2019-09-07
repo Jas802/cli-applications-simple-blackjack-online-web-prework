@@ -42,6 +42,7 @@ def hit?(card_total)
     card_total += deal_card  # code hit? here
   end
   card_total
+end
 
 def invalid_command
   # code invalid_command here
