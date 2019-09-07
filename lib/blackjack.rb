@@ -19,7 +19,7 @@ gets.chomp.strip  # code #get_user_input here
 end
 
 def end_game
-  # code #end_game here
+puts "Sorry, you hit #{card_total}. Thanks for playing!"  # code #end_game here
 end
 
 def initial_round
